@@ -1,0 +1,13 @@
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.exe
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.deps.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.runtimeconfig.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.runtimeconfig.dev.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.dll
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\bin\Debug\netcoreapp3.1\Zoogdier voorbeeld.pdb
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.csprojAssemblyReference.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.AssemblyInfo.cs
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.dll
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.pdb
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Oefeningen vrijdag traineeship\Zoogdier voorbeeld\Zoogdier voorbeeld\obj\Debug\netcoreapp3.1\Zoogdier voorbeeld.genruntimeconfig.cache
