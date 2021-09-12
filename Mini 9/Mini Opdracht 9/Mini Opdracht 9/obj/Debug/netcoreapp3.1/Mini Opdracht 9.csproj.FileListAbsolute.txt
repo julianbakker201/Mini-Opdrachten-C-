@@ -1,0 +1,13 @@
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.exe
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.deps.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.runtimeconfig.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.runtimeconfig.dev.json
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.dll
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\bin\Debug\netcoreapp3.1\Mini Opdracht 9.pdb
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.csprojAssemblyReference.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.AssemblyInfo.cs
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.dll
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.pdb
+C:\Users\Julian\Documents\Traineeship Projecten\c#\Mini 9\Mini Opdracht 9\Mini Opdracht 9\obj\Debug\netcoreapp3.1\Mini Opdracht 9.genruntimeconfig.cache
